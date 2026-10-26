@@ -12,3 +12,7 @@
 ## 연구 자료 이관
 
 현재 저장소에는 이전 안내와 관리 문서 5개만 남습니다. 하계 최종 원고와 그래프 코드는 [Lung-CT-Privacy-Project](https://github.com/PUVKID/Lung-CT-Privacy-Project)의 연구 1로 옮겼습니다. 과거 커밋 이력은 삭제하지 않고 보존합니다. 연구 1·2의 차이는 통합 저장소의 `RESEARCH_STAGES.md`에서 확인할 수 있습니다.
+
+## 예시 이미지의 집계 범위
+
+`assets/previews/`는 README 설명용 이미지이며 위 연구 원본의 차수별 파일 집계에서 제외합니다. 원고 도표·기존 화면·코드 기반 설명도를 구분해 README에 출처와 해석 범위를 적었습니다.

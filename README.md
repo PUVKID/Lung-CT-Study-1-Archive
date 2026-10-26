@@ -1,12 +1,40 @@
 <div align="center">
 
-# Lung CT Study 1 Archive
+# 폐 CT 연구 1 · 하계 연구 이전 안내
+
+**Lung-CT-Study-1-Archive**
+
+**기술 분류:** 컴퓨터 비전 › 딥러닝 영상 분류 › 연구 1 이전 안내
 
 ### EfficientNetV2-S 하계 연구의 이동 안내와 기록 보존
 
 **현재 연구 자료는 [Lung CT Privacy Project](https://github.com/PUVKID/Lung-CT-Privacy-Project)에서 확인하실 수 있습니다.**
 
+[예시 이미지](#preview)
+
 </div>
+
+<a name="preview"></a>
+
+## 🖼️ 예시로 보기
+
+<p align="center"><img src="https://raw.githubusercontent.com/PUVKID/Lung-CT-Privacy-Project/main/assets/previews/study1-blur-accuracy.png" width="800" alt="연구 1 논문에 실린 블러 강도별 분류 정확도" /></p>
+
+연구 1의 하계 원고에 실린 분류 정확도 도표입니다. 이미지 파일과 연구 자료는 [통합 저장소](https://github.com/PUVKID/Lung-CT-Privacy-Project)에 보관하며 이곳에는 이동 안내를 유지합니다.
+
+
+
+<a name="input-processing-output"></a>
+
+## 🔄 입력·처리·출력
+
+| 단계 | 이 프로젝트에서 다루는 내용 |
+| :--- | :--- |
+| 입력 | 하계 EfficientNetV2-S 연구 기록 |
+| 처리 | 폐 CT 통합 저장소의 연구 1로 연결 |
+| 출력 | 이동 안내·과거 커밋 이력 |
+
+
 
 ## 통합 위치
 
