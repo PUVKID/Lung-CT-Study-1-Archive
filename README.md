@@ -10,17 +10,11 @@ EfficientNetV2-S 하계 연구 자료는 통합 폐 CT 연구 저장소에서 �
 **기술 분류:** 컴퓨터 비전 › 딥러닝 영상 분류 › 연구 1 이전 안내
 
 
-
-[예시 이미지](#preview)
+[핵심 구성](#input-processing-output)
 
 </div>
 
 <a name="overview"></a>
-
-## 🗺️ 한눈에 보는 구성
-
-<p align="center"><img src="assets/overview.png" width="960" alt="프로젝트의 입력·처리·출력을 정리한 설명도" /></p>
-보관한 프로젝트 자료의 흐름을 정리한 설명도입니다.
 
 ## ✨ 최신 자료에서 살펴볼 점
 
@@ -32,15 +26,7 @@ EfficientNetV2-S 하계 연구 자료는 통합 폐 CT 연구 저장소에서 �
 
 **자료별 안내:** [이관 안내](docs/versions/stage-1.md) · [전체 기록](docs/VERSIONS.md)
 
-
 <a name="preview"></a>
-
-## 🖼️ 예시로 보기
-
-<p align="center"><img src="https://raw.githubusercontent.com/PUVKID/Lung-CT-Privacy-Project/main/assets/previews/study1-blur-accuracy.png" width="800" alt="연구 1 논문에 실린 블러 강도별 분류 정확도" /></p>
-
-연구 1의 하계 원고에 실린 분류 정확도 도표입니다. 원본 정확도 92.5%와 σ32의 53.3% 등 하계 원고의 보고값을 담고 있습니다. 이미지 파일과 연구 자료는 [통합 저장소](https://github.com/PUVKID/Lung-CT-Privacy-Project)에 보관하며 이곳에는 이동 안내를 유지합니다.
-
 
 <a name="input-processing-output"></a>
 
@@ -48,9 +34,9 @@ EfficientNetV2-S 하계 연구 자료는 통합 폐 CT 연구 저장소에서 �
 
 | 단계 | 이 프로젝트에서 다루는 내용 |
 | :--- | :--- |
-| 입력 | 하계 EfficientNetV2-S 연구 기록 |
-| 처리 | 폐 CT 통합 저장소의 연구 1로 연결 |
-| 출력 | 이동 안내·과거 커밋 이력 |
+| 📥 입력 | 하계 EfficientNetV2-S 연구 기록 |
+| ⚙️ 처리 | 폐 CT 통합 저장소의 연구 1로 연결 |
+| 📤 출력 | 이동 안내·과거 커밋 이력 |
 
 
 <a name="통합-위치"></a>

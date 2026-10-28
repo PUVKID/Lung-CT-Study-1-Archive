@@ -20,6 +20,6 @@
 
 ## 📍 파일 안에서 확인하기
 
-- [README.md](../../README.md) · `Lung-CT-Privacy-Project` · 31, 40, 42, 64, 65, 66, 67
+- [구성과 통합 연구 안내](../../README.md#input-processing-output) · `Lung-CT-Privacy-Project` · 제목 앵커로 연결
 
 셀 번호는 0부터, 소스 행 번호와 PDF 쪽 번호는 1부터 셉니다. 문서와 코드의 정적 대조이며, 새 학습·추론·장치 측정·공격 실행 결과는 아닙니다.
