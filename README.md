@@ -1,22 +1,37 @@
 <div align="center">
 
 <a name="폐-ct-연구-1--하계-연구-이전-안내"></a>
+<a name="efficientnetv2-s-하계-연구의-이동-안내와-기록-보존"></a>
 
-# 🔬 폐 CT 연구 1 · 하계 연구 이전 안내
+# 🗃️ Lung CT Study 1 Archive
 
-**Lung-CT-Study-1-Archive**
+EfficientNetV2-S 하계 연구 자료는 통합 폐 CT 연구 저장소에서 확인하실 수 있습니다.
 
 **기술 분류:** 컴퓨터 비전 › 딥러닝 영상 분류 › 연구 1 이전 안내
 
-<a name="efficientnetv2-s-하계-연구의-이동-안내와-기록-보존"></a>
 
-### 🔬 EfficientNetV2-S 하계 연구의 이동 안내와 기록 보존
-
-**현재 연구 자료는 [Lung CT Privacy Project](https://github.com/PUVKID/Lung-CT-Privacy-Project)에서 확인하실 수 있습니다.**
 
 [예시 이미지](#preview)
 
 </div>
+
+<a name="overview"></a>
+
+## 🗺️ 한눈에 보는 구성
+
+<p align="center"><img src="assets/overview.png" width="960" alt="프로젝트의 입력·처리·출력을 정리한 설명도" /></p>
+보관한 프로젝트 자료의 흐름을 정리한 설명도입니다.
+
+## ✨ 최신 자료에서 살펴볼 점
+
+하계 연구 1의 최종 원고와 그래프를 통합 저장소로 연결합니다.
+
+현재 저장소에는 연구 원본이 없으며 과거 이력과 통합 위치를 안내합니다.
+
+- 현재 README의 통합 위치 안내를 따라 Lung-CT-Privacy-Project에서 연구 1·2와 후속 코드를 구분해 읽습니다.
+
+**자료별 안내:** [이관 안내](docs/versions/stage-1.md) · [전체 기록](docs/VERSIONS.md)
+
 
 <a name="preview"></a>
 
